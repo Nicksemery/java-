@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c79b921-52bb-460d-a466-d6ead238c8c5" name="Changes" comment="novo">
+    <list default="true" id="4c79b921-52bb-460d-a466-d6ead238c8c5" name="Changes" comment="novo2.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicioF/src/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicioF/src/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicioF/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicioF/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicioF/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicioF/src/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicioF/src/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicioF/src/Professor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726595419531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="novo2.0">
+      <option name="closed" value="true" />
+      <created>1726596273810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726596273810</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="novo" />
-    <option name="LAST_COMMIT_MESSAGE" value="novo" />
+    <MESSAGE value="novo2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="novo2.0" />
   </component>
 </project>
